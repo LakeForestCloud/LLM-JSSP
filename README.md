@@ -29,7 +29,6 @@ Rather than only providing the final schedule, it explicitly documents the **dec
 
 ![Structured Reasoning Example](./dataset_preview.png)
 
-> **Note**: Ensure the image file is named `dataset_preview.png` and placed in the repository root directory.
 
 #### Highlights of the Reasoning Trace
 
